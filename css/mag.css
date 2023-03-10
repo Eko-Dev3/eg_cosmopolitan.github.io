@@ -848,7 +848,10 @@ span.featured-label {
 
 .breaking_news {
     position: relative;
-    margin-top: 50px;
+    margin-top: 100px;
+    z-index: 999;
+    width: 100%;
+   
 }
 
 .breaking_inner {
