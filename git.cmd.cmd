@@ -3,7 +3,7 @@ git branch -M main
 git push -u origin main
 
  git add .
-git commit -am "Actualizacion hoy viernes"
+git commit -am "Actualizacion hoy"
 git push origin main
 
 git push --set-upstream origin master
